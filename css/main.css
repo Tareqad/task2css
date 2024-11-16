@@ -1,0 +1,39 @@
+.services{
+    text-align: center;
+    
+
+}
+i{
+    
+    font-size: 50px;
+    color: white;
+    background-color: rgb(255, 194, 80);  
+}
+.E-Commerce{
+    
+    color: black;
+    width: 33%;
+    text-align: center;
+    float: left;
+}
+.ResponsiveDesign{
+    
+    color: black;
+    width: 33%;
+    text-align: center;
+    float: right;
+}
+.Websecurity{
+    
+    color: black;
+    width: 33%;
+    text-align: center;
+    float: right;
+}
+p{
+    
+}
+
+.clearfix{
+    clear: both;
+}
